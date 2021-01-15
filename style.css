@@ -1,0 +1,22 @@
+.panda-card{
+    border: none;
+
+}
+.p{
+    background-color: white;
+    border: none;
+}
+
+.size{
+    width: 22%;
+padding-right: 7%;
+}
+
+.icon-size{
+    width: 25%;
+    padding-right: 5%;
+}
+.logo-size{
+    width: 18%;
+}
+
